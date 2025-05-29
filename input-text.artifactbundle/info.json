@@ -3,10 +3,10 @@
     "artifacts": {
         "input-text": {
             "type": "executable",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "variants": [
                 {
-                    "path": "input-text-0.0.1-macos/bin/input-text",
+                    "path": "input-text-0.0.2-macos/bin/input-text",
                     "supportedTriples": ["x86_64-apple-macosx", "arm64-apple-macosx"]
                 }
             ]
